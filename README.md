@@ -1,4 +1,4 @@
-## Stackmate
+## Tennis Court Reservation
 
 **Welcome to Tennis Court Reservation App - Flutter Project documentation.**
 Here you can find all the necessary documentation to be able to use and run the project. It is organized in the following sections:
